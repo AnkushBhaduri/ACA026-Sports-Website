@@ -1,0 +1,65 @@
+ul{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+   word-spacing:10px
+  }
+  ul li{
+    list-style:none
+  }
+  ul li a{
+    font-weight:bold;
+    color:green;
+    font-size:0.8em;
+  text-decoration:none;
+    padding:1em;
+    white-space:nowrap;
+    letter-spacing:1px;
+  
+    font-size:25px;
+    font-family:sans-serif
+  }
+  .backimg{
+    background:url(https://i.postimg.cc/tJkgGHpj/900012-sachin-tendulkar-1.jpg);
+  
+    
+    background-repeat: no-repeat;
+    width:100%;
+  }
+  .intro1{
+    color:#fff;
+    font-size:40px;
+    font-family:helvetica
+  }
+  .intro2{
+    color:white;
+    font-size:45px;
+  }
+  .biography{
+    background:linear-gradient(to top right,black,blue);
+  }
+  .bio{
+    color:#fff;
+    font-size:45px;
+    font-family:arial;
+    font-weight:bold
+  }
+  ul li a:hover{
+    border-bottom: 3px solid #fff;
+  }
+  .biodetails{
+    color:#fff;
+    font-family:"open-sans",sans-serif;
+    font-size:20px;
+    padding-left:5%;
+    padding-right:5%
+  }
+  ol{
+    color:#fff;
+    font-family:sans-serif;
+    
+  }
+  .national{
+    font-weight:bold;
+    font-size:28px
+  }
